@@ -1,1 +1,4 @@
-print("Hello from lld-to-yaml-configurator!")
+def greet(name):
+    print(f"Hello, {name}! Welcome to lld-to-yaml-configurator.")
+
+greet("Suresh")
