@@ -6,6 +6,3 @@ def farewell(name):
 
 greet("Suresh")
 farewell("Suresh")
-
-# This is a bad change that needs to be undone
-print("BAD FEATURE - should not be here")
